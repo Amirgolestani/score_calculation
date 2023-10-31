@@ -1,0 +1,34 @@
+#To calculate students' grades
+score1 = int(input("Please enter the grade of your Farsi course:"))
+score2 = int(input("Please enter your experimental science score:"))
+score3 = int(input("Please enter your math grade:"))
+score4 = int(input("Please enter your chemistry grade:"))
+score5 = int(input("Please enter your history grade:"))
+score6 = int(input("Please enter your religion and life grade:"))
+score7 = int(input("Please enter your PE grade:"))
+score8 = int(input("Please enter your physics grade:"))
+score9 = int(input("Please enter your English course grade:"))
+score10 = int(input("Please enter your biology grade:"))
+
+average = (score1 + score2 + score3 + score4 + score5 + score6 + score7 + score8 + score9 + score10) /10
+
+while average != 20 :
+    print ( "error")
+    break
+score1 = int(input("Please enter the grade of your Farsi course:"))
+score2 = int(input("Please enter your experimental science score:"))
+score3 = int(input("Please enter your math grade:"))
+score4 = int(input("Please enter your chemistry grade:"))
+score5 = int(input("Please enter your history grade:"))
+score6 = int(input("Please enter your religion and life grade:"))
+score7 = int(input("Please enter your PE grade:"))
+score8 = int(input("Please enter your physics grade:"))
+score9 = int(input("Please enter your English course grade:"))
+score10 = int(input("Please enter your biology grade:"))
+
+average = (score1 + score2 + score3 + score4 + score5 + score6 + score7 + score8 + score9 + score10) /10
+
+while average == 20 : 
+    print ( "new bike" )
+    break
+ 
